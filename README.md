@@ -1,4 +1,4 @@
-aptf86
+AJTF 86
 ======
 
-Repositório das aulas de Academia do Programador Turma 86
+Repositório das aulas de Academia Java Turma 86
